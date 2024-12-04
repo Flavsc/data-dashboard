@@ -1,0 +1,51 @@
+# Python Bytecode
+*.py[cod]
+__pycache__/
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual Environment
+venv/
+env/
+dashboard_env/
+ENV/
+
+# VSCode/IDE settings
+.vscode/
+.idea/
+
+# OS-Specific
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+*.out
+
+# Test Results
+*.pytest_cache/
+.test/
+.coverage
+.tox/
+.cache/
+
+# Python Dependency Files
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Build Files
+build/
+dist/
+*.egg-info/
+
+# Temporary Files
+*.bak
+*.swp
+*.tmp
+
+# Streamlit Cache
+.streamlit/
